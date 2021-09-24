@@ -1,1 +1,1 @@
-Goku,Vegeta,Gohan,Trunks
+Goku,Vegeta,Gohan,Trunks,cell
